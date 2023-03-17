@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../../sass/layout/geral.scss"],"names":[],"mappings":"AAAA;EACC;;;AAGD;EACC;EACA;;;AAGD;EACC;EACA;EACA;;;AAGD;AAAA;AAAA;AAAA;EAIC;;;AAGD;EACC","file":"geral.css"}
+{"version":3,"sourceRoot":"","sources":["geral.scss"],"names":[],"mappings":"AAAA;EACC;;;AAGD;EACC;EACA;;AAEA;EAJD;IAKE;;;;AAIF;EACC;EACA;EACA;;;AAGD;AAAA;AAAA;AAAA;EAIC;;;AAGD;EACC","file":"geral.css"}
