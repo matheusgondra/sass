@@ -62,21 +62,13 @@
 	height: 38px;
 	font-size: 1.2em;
 	@include borda-arredondada;
-	@extend %sombra-padrao;
+	@include box-shadow(black 0 2px 6.65px);
 	margin-left: 2em;
 }
 
 .icone-check,
 .icone-x {
-	background: url(../imagens/sprite.png) no-repeat;
+	background: url(../imagens/sprite-s8ca5edb2ee.png) no-repeat;
 	width: 18px;
 	height: 18px;
-}
-
-.icone-check {
-	background-position: -5px -5px;
-}
-
-.icone-x {
-	background-position: -33px -5px;
 }
